@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RoeyErel
-- 👀 I’m interested in Web Development
 - 🌱 I’m currently studying Computer Science
 - 📫 Can find me on Linkdin: https://www.linkedin.com/in/roey-erel-baa353214/
 
