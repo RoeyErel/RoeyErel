@@ -11,7 +11,7 @@ Roey Erel</a></h1>
 
 - 🌱 I’m currently learning Computer Science at <a href="https://www.openu.ac.il/en/pages/default.aspx" target="blank">The Open University</a>
 
-- 💬 Ask me about **Reactjs, Python, Java**
+- 💬 Ask me about **React.js, Python, Java**
 
 - 📫 How to reach me **roee42@gmail.com**
 <br/>
